@@ -3,7 +3,7 @@
 '向外提供两个有用的方法 \
 imgproc.to_text(imagefile,textfile),将图片保存到textfile文件中 得到的textfile中只有01字符串 \
 imgproc.to_img(textfile,imagefile),将textfile文件转换成RGB图片 要求textfile中有012字符串'
-__author__='第十二届队员谭赣超'
+__author__='tgc'
 
 import cv2
 import numpy
