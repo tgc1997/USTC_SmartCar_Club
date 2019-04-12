@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__='第十二届队员谭赣超'
+__author__='tgc'
 
 from tkinter import *
 from tkinter import filedialog
